@@ -1,0 +1,25 @@
+{
+    "alunos": [
+    {
+    "id": 1,
+    "nome": "Dunha santos",
+    "idade": 60,
+    "nota": 80.70,
+    "disciplinas": ["Matemática", "Português", "Ciências"]
+    },
+    {
+    "id": 2,
+    "nome": "Noso silva pinto pepino",
+    "idade": 90,
+    "nota": 50.7,
+    "disciplinas": ["História", "Geografia", "Inglês"]
+    },
+    {
+    "id": 3,
+    "nome": "raffa moreira parafall plaqtudum2",
+    "idade": 102,
+    "nota": 6.99,
+    "disciplinas": ["Física", "Química", "Educação Física"]
+    }
+    ]
+    }

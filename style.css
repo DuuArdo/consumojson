@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+}
+
+*{
+    background-color: azure;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Alunos{
+    margin-left: 50px;
+    margin-top: 50px;
+}
